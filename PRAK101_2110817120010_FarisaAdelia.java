@@ -1,7 +1,7 @@
 package praktikumpemograman;
 import java.util.Scanner;
 
-public class PRAK105_2110817120010_FarisaAdelia {
+public class PRAK101_2110817120010_FarisaAdelia {
 public static void main(String[] args) {
 
         //Scanner untuk menerima input dari user
